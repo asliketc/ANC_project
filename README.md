@@ -1,0 +1,1 @@
+A simulation program for ANC which detects environment noise with sounddevice and suggest ANC modes.
